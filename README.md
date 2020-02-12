@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Syed's Pages
 
 You can use the [editor on GitHub](https://github.com/shasan1110/git_web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Hello
 ## Header 2
 ### Header 3
 
